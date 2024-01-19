@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+   cursor: none;
+   user-select: none;
+}
+
+button,
+a {
+   cursor: none;
+}
